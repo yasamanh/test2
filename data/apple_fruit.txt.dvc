@@ -1,0 +1,7 @@
+md5: 44db26a57367585863bf2f5720ffc856
+outs:
+- md5: 4a835fca558ef17c881c09d3f3ab862b
+  path: apple_fruit.txt
+  cache: true
+  metric: false
+  persist: false

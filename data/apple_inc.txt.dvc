@@ -1,0 +1,7 @@
+md5: a0e95dd171b68e7df884837e2e9864e7
+outs:
+- md5: 140946ff454da387105197941bb9dd32
+  path: apple_inc.txt
+  cache: true
+  metric: false
+  persist: false
